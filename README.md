@@ -1,5 +1,7 @@
 ## Fashion Blog
 
+![Fashion Blog](no_markup_starter/fashion_blog_result.png)
+
 See if you can recreate the screenshots for this Fahsion Blog.
 
 This repo contains 3 branches:

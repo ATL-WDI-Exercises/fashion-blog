@@ -1,8 +1,6 @@
-## Fashion Blog
+# Fashion Blog
 
-![Fashion Blog](no_markup_starter/fashion_blog_result.png)
-
-See if you can recreate the screenshots for this Fahsion Blog.
+See if you can recreate a Fashion Blog given the screenshot below.
 
 This repo contains 3 branches:
 
@@ -11,3 +9,5 @@ This repo contains 3 branches:
 - **css-starter** - This version contains the HTML structure so you'll only need to focus on adding your CSS rules.
 
 - **solution** - This contains the solution.
+
+![Fashion Blog](no_markup_starter/fashion_blog_result.png)

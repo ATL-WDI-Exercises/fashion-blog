@@ -1,6 +1,6 @@
 # Fashion Blog
 
-See if you can recreate a Fashion Blog given the screenshot below.
+Given some starter code, see if you can recreate the Fashion Blog screenshot below.
 
 This repo contains 3 branches:
 
